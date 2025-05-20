@@ -17,8 +17,16 @@ Smart Society Management System is a Java-based desktop application developed to
 
 ## Project Structure
 
-<pre> ```bash SmartSocietySystem/ │ ├── dao/ # Data Access Objects for DB operations ├── db/ # Database connection configuration ├── model/ # Java classes for Admin, Complaint, User, etc. ├── ui/ # User interface classes using Swing ├── mysql-connector/ # JDBC driver for MySQL └── README.md ``` </pre>
-
+```
+SmartSocietySystem/
+│
+├── dao/              # Data Access Objects for DB operations
+├── db/               # Database connection configuration
+├── model/            # Java classes for Admin, Complaint, User, etc.
+├── ui/               # User interface classes using Swing
+├── mysql-connector/  # JDBC driver for MySQL
+└── README.md
+```
 ---
 
 ## Technologies Used
